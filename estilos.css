@@ -1,0 +1,88 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+#contenedor{
+	padding: 100px;
+}
+#contenedor1{
+	float: left;
+	width: 50px;
+	height: 50px;
+	background: green; 
+	padding: 50px;
+	margin: 50px;
+}
+#contenedor2{
+	float: left;
+	width: 50px;
+	height: 50px;
+	background: red; 
+	padding: 50px;
+	margin: 50px;
+}
+#contenedor3{
+	float: left;
+	width: 50px;
+	height: 50px;
+	background: yellow;
+	padding: 50px;
+	margin: 50px;
+}
+#contenedor4{
+	float: left;
+	width: 50px;
+	height: 50px;
+	background: blue; 
+	padding: 50px;
+	margin: 50px;
+}
+#contenedor5{
+	float: left;
+	width: 50px;
+	height: 50px;
+	background: red; 
+	padding: 50px;
+	margin: 50px;
+}
+#contenedor6{
+	float: left;
+	width: 50px;
+	height: 50px;
+	background: yellow;
+	padding: 50px;
+	margin: 50px;
+}
+#contenedor7{
+	float: left;
+	width: 50px;
+	height: 50px;
+	background: blue; 
+	padding: 50px;
+	margin: 50px;
+}
+#contenedor8{
+	float: left;
+	width: 50px;
+	height: 50px;
+	background: red; 
+	padding: 50px;
+	margin: 50px;
+}
+#contenedor9{
+	float: left;
+	width: 50px;
+	height: 50px;
+	background: yellow; 
+	padding: 50px;
+	margin: 50px;
+}
+#contenedor10{
+	float: left;
+	width: 50px;
+	height: 50px;
+	background: green; 
+	padding: 50px;
+	margin: 50px;
+}
